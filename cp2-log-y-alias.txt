@@ -1,0 +1,41 @@
+commit 2de79b78503db5bc742d921d66d3a7b486b55a1e (HEAD -> main)
+Author: Ronny Javier Roman Jimenez <ronnyroman300@.com>
+Date:   Tue Apr 14 12:27:36 2026 +0200
+
+    Actualiza main antes de integrar A
+
+commit 591fd94157a8573ed823ff8df7e2e738daa77ca7
+Author: Ronny Javier Roman Jimenez <ronnyroman300@.com>
+Date:   Tue Apr 14 12:26:53 2026 +0200
+
+    Commit inicial
+
+commit 6c9f27dc5fad8472e0183c40642d1694b4005ff6 (origin/main, origin/HEAD)
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Tue Apr 14 10:29:16 2026 +0000
+
+    add deadline
+
+commit c196b2aff95dd875c278c20e3c1931885c94723c
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Thu Apr 9 15:16:43 2026 +0000
+
+    Initial commit
+2de79b7 (HEAD -> main) Actualiza main antes de integrar A
+591fd94 Commit inicial
+6c9f27d (origin/main, origin/HEAD) add deadline
+c196b2a Initial commit
+* 2de79b7 (HEAD -> main) Actualiza main antes de integrar A
+* 591fd94 Commit inicial
+* 6c9f27d (origin/main, origin/HEAD) add deadline
+* c196b2a Initial commit
+* 2de79b7 (HEAD -> main) Actualiza main antes de integrar A
+| * 4fc8d12 (feature-b) Añade funcionalidad B
+|/  
+| * ae863a6 (feature-a) Añade funcionalidad A
+|/  
+* 591fd94 Commit inicial
+* 6c9f27d (origin/main, origin/HEAD) add deadline
+* c196b2a Initial commit
+
+La vista `git log --graph --oneline` me resulta más útil porque muestra el historial de forma visual y resumida, permitiendo entender rápidamente las ramas y commits sin saturarse de información.

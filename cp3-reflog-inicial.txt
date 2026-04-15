@@ -1,0 +1,11 @@
+2de79b7 HEAD@{0}: commit: Actualiza main antes de integrar A
+591fd94 HEAD@{1}: checkout: moving from feature-b to main
+4fc8d12 HEAD@{2}: commit: Añade funcionalidad B
+591fd94 HEAD@{3}: checkout: moving from main to feature-b
+591fd94 HEAD@{4}: checkout: moving from feature-a to main
+ae863a6 HEAD@{5}: commit: Añade funcionalidad A
+591fd94 HEAD@{6}: checkout: moving from main to feature-a
+591fd94 HEAD@{7}: commit: Commit inicial
+6c9f27d HEAD@{8}: clone: from github.com:IES-Torrevigia-FP/actividad-6-10-git-log-git-reflog-leer-historial-commits-RonnyRJ-3.git
+
+`git log` muestra el historial de commits del repositorio (lo que forma parte de las ramas), mientras que `git reflog` registra todos los movimientos del HEAD (incluyendo cambios locales como resets o commits borrados), aunque ya no estén en el historial visible.

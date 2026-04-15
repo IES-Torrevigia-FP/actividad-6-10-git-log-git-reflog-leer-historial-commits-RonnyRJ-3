@@ -1,0 +1,5 @@
+4fc8d12 HEAD@{2}: commit: Añade funcionalidad B
+
+git branch feature-b-recuperada 4fc8d12
+
+`git reflog` es útil porque guarda un historial de todos los movimientos del HEAD, incluso si borras una rama; así puedes encontrar el commit donde apuntaba esa rama antes de eliminarla y recuperarla fácilmente creando una nueva referencia desde ese punto.

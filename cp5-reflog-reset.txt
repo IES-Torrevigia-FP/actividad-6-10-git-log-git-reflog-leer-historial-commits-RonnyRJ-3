@@ -1,0 +1,5 @@
+git reset --hard 591fd94
+
+2de79b7 HEAD@{1}: commit: Actualiza main antes de integrar A
+
+git reset --hard 2de79b7
